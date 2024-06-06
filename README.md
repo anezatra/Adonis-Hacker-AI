@@ -1,5 +1,5 @@
 # Adonis Hacker AI 🤖
-![banner image](https://https://github.com/anezatra/Adonis-Hacker-AI/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra/Adonis-Hacker-AI/blob/main/banner.png)
 ## What is a Adonis?
 **Adonis is an advanced artificial intelligence model that aims to revolutionize the world of cybersecurity. Equipped with approximately 1.1 billion parameters, this sophisticated system has been rigorously trained on extensive and diverse data sets. Adonis' main purpose is to provide proactive and effective solutions against cyber threats and provide exploit codes for any penetration testing.**
 ## Adonis servers 🌐
